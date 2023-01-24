@@ -8,4 +8,8 @@ Compile the file by typing: javac MyClass.java
 Execute the file by typing: java MyClass
 You will then find all neccesary information in primes.txt
 
-Have a good day :)
+## Summary
+
+I decided to use a popular algorithm for frinding primes called Sieve of Eratosthenes.
+I used multhreading and gave specific ranges to 8 threads so threads weren't doing the same work as others.
+This design makes the program as efficient as can be. I checked how many primes were in 10^8 and then made sure my final program got the same result.
