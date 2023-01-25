@@ -77,7 +77,7 @@ public class MyClass implements Runnable{
       long start = System.currentTimeMillis();
       long end;
        
-      System.out.println("Hello World, Java app");
+      System.out.println("Check primes.txt");
       // Thread 1
       MyClass m1 = new MyClass(1,1,12500000, 0,0);
       Thread my1 = new Thread(m1);
