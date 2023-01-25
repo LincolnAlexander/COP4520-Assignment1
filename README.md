@@ -2,6 +2,8 @@
 
 ## Welcome Non-Technical Manager!
 
+## How to run program
+
 To run my program you will need to open your command prompt and download files: MyClass.java
 Navigate to the to the folder where you downloaded that file.
 Compile the file by typing: javac MyClass.java
